@@ -1,6 +1,6 @@
 # Airbnb_bookibg_analysis
 
-![1_XNhLZt9VNDGQMQUN8XIBhg](https://user-images.githubusercontent.com/48796009/226154429-0f2c35af-e2c5-4c33-9eb7-dd1bf02fc142.gif)
+![image](https://user-images.githubusercontent.com/48796009/226155282-f4ef418b-82e6-477c-93a8-c3d87c27f1fa.png)
 
 
 Airbnb is an online marketplace that connects people who want to rent out their homes with people looking for accommodations in that locale. 
@@ -66,7 +66,9 @@ Queens, Staten Island are on the same page with price on listings.
 
 # Top neighbourhoods in NYC with respect to average price/day of Airbnb listings
 
-![0_juUlm8-b_uZ1DeUL](https://user-images.githubusercontent.com/48796009/226155160-b5dc1406-0f2f-4935-aaf4-ba2fe51a356b.jpg)
+![image](https://user-images.githubusercontent.com/48796009/226155230-34b7266e-92f9-48c6-8ce7-37358c39fa4f.png)
+
+
 
 
 
